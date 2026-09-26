@@ -58,7 +58,7 @@ curl -fLo ~/.termux/font.ttf https://github.com/ryanoasis/nerd-fonts/raw/master/
 
 ```bash
 # Clone this repo
-git clone https://github.com/AndroidGeeksYT/dotfile_fish ~/.config/fish/
+git clone https://github.com/hamulta/dotfile_fish ~/.config/fish/
 chsh -s fish
 ```
 
